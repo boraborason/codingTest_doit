@@ -19,9 +19,9 @@ public class solved001 {
 
       sum += cNum[i] - '0'; // 문자를 숫자로 변경하려면 '아스키코드'로
                             // 문자를 숫자로 변환시 '1'-49 or '1'-'0'
-
     }
 
     System.out.println("합계 : " + sum);
+    sc.close();
   }
 }
