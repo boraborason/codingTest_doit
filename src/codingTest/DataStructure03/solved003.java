@@ -29,6 +29,6 @@ public class solved003 {
 
       System.out.println(A[b] - A[a - 1]); // b의 값에서 a-1의 값을 제외
     }
-
+    sc.close();
   }
 }
